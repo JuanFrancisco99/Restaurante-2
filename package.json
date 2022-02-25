@@ -1,0 +1,23 @@
+{
+  "name": "restaurant2",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "parcel build Carta.html index.html reservas.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanFrancisco99/Restaurante-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuanFrancisco99/Restaurante-2/issues"
+  },
+  "homepage": "https://github.com/JuanFrancisco99/Restaurante-2#readme",
+  "description": "",
+  "devDependencies": {
+    "critical": "^4.0.1",
+    "parcel": "^2.3.2"
+  }
+}
